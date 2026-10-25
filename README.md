@@ -28,7 +28,7 @@ Computer Science student, learning Linux system administration and security in m
  
 | Repository | Description |
 | --- | --- |
-| [linux-notes](https://github.com/TUO-USERNAME/linux-notes) | My Linux study notes following RHCSA objectives, with the mistakes I made and what they taught me *(in Italian)* |
+| [linux-notes](https://github.com/ema3-hu/linux-notes) | My Linux study notes following RHCSA objectives, with the mistakes I made and what they taught me *(in Italian)* |
  
 ## How I learn
  
