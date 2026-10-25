@@ -13,7 +13,6 @@
 - 🐧 Learning Linux using the **RHCSA** exam objectives as my syllabus
 - 🔐 Practicing on **Hack The Box** --> [MyProfile](https://profile.hackthebox.com/profile/019e77f2-8102-7088-a1ae-c95e7c8cc5da?utm_medium=copy_url)
 - 📝 Documenting everything I learn, mistakes included
-- 👨‍💻 My LinkedIn --> [MyProfile](www.linkedin.com/in/emanuele-graziano-b050403a6)
 ## Current focus
  
 | Area | What I'm working on |
